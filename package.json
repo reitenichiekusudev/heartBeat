@@ -12,7 +12,7 @@
     "buffer": "^5.2.1",
     "qs": "^6.7.0",
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-app-auth": "^4.4.0",
     "request": "^2.88.0",
     "url-parse": "^1.4.7"
